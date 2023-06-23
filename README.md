@@ -2,9 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 -------------------------------------
 
 * 🔭 I’m currently working at [Aridhia Informatics](https://github.com/aridhia) 
-* 🚀 Working remotely since 2020
-* 🌍  I'm based in Edinburgh
-* 👨‍💻 PhD in Precision Medicine (Leukaemia Genomics), UoEdinburgh
     
 <br/>  
 
